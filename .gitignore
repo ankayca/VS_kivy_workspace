@@ -1,0 +1,6 @@
+env/
+win_env/
+bin/
+.buildozer/
+.README.md.swp
+install-kivy-buildozer-dependencies.sh
